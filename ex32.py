@@ -25,7 +25,7 @@ change = {1,'pennies', 2 , 'dimes', 3, 'quarters'}
             #append is a function that lists understand
             elemnts.append(i)
             
-            #now we can print the, out too
+            #now we can print the, out to
             for i in elements:
                 print ("Element was: %d" % i)
         
